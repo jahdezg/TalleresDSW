@@ -1,0 +1,36 @@
+.Encabezado1 {
+  background-color: rgb(54, 202, 202);
+  color: black;
+  text-align: left;
+  padding: 8px 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.tabla1 {
+  width: 500px;
+  margin: 30px auto 0 auto;
+  text-align: center;
+  border-collapse: collapse;
+}
+
+.tabla1 th, .tabla1 td {
+  border: 1px solid #ccc;
+  padding: 8px;
+}
+
+.tabla1 th {
+  background-color: #f2f2f2;
+}
+
+.margen1{
+  text-align: right;
+  padding: 0px 150px;
+  font-weight: bold;
+}
+
+#averageSeasons {
+  width: 500px;
+  margin: 15px auto;
+  font-weight: bold;
+}
